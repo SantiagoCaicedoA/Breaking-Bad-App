@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Resume/static/css/main.2d0e53f4.chunk.css",
-    "main.js": "/Resume/static/js/main.90bfbf3e.chunk.js",
-    "main.js.map": "/Resume/static/js/main.90bfbf3e.chunk.js.map",
-    "runtime-main.js": "/Resume/static/js/runtime-main.0ea887d6.js",
-    "runtime-main.js.map": "/Resume/static/js/runtime-main.0ea887d6.js.map",
-    "static/css/2.86fbdad3.chunk.css": "/Resume/static/css/2.86fbdad3.chunk.css",
-    "static/js/2.2f36898a.chunk.js": "/Resume/static/js/2.2f36898a.chunk.js",
-    "static/js/2.2f36898a.chunk.js.map": "/Resume/static/js/2.2f36898a.chunk.js.map",
-    "index.html": "/Resume/index.html",
-    "static/css/2.86fbdad3.chunk.css.map": "/Resume/static/css/2.86fbdad3.chunk.css.map",
-    "static/css/main.2d0e53f4.chunk.css.map": "/Resume/static/css/main.2d0e53f4.chunk.css.map",
-    "static/js/2.2f36898a.chunk.js.LICENSE.txt": "/Resume/static/js/2.2f36898a.chunk.js.LICENSE.txt"
+    "main.css": "/SantiagoCaicedoA/Resume.git/static/css/main.2d0e53f4.chunk.css",
+    "main.js": "/SantiagoCaicedoA/Resume.git/static/js/main.90bfbf3e.chunk.js",
+    "main.js.map": "/SantiagoCaicedoA/Resume.git/static/js/main.90bfbf3e.chunk.js.map",
+    "runtime-main.js": "/SantiagoCaicedoA/Resume.git/static/js/runtime-main.e889437b.js",
+    "runtime-main.js.map": "/SantiagoCaicedoA/Resume.git/static/js/runtime-main.e889437b.js.map",
+    "static/css/2.86fbdad3.chunk.css": "/SantiagoCaicedoA/Resume.git/static/css/2.86fbdad3.chunk.css",
+    "static/js/2.2f36898a.chunk.js": "/SantiagoCaicedoA/Resume.git/static/js/2.2f36898a.chunk.js",
+    "static/js/2.2f36898a.chunk.js.map": "/SantiagoCaicedoA/Resume.git/static/js/2.2f36898a.chunk.js.map",
+    "index.html": "/SantiagoCaicedoA/Resume.git/index.html",
+    "static/css/2.86fbdad3.chunk.css.map": "/SantiagoCaicedoA/Resume.git/static/css/2.86fbdad3.chunk.css.map",
+    "static/css/main.2d0e53f4.chunk.css.map": "/SantiagoCaicedoA/Resume.git/static/css/main.2d0e53f4.chunk.css.map",
+    "static/js/2.2f36898a.chunk.js.LICENSE.txt": "/SantiagoCaicedoA/Resume.git/static/js/2.2f36898a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ea887d6.js",
+    "static/js/runtime-main.e889437b.js",
     "static/css/2.86fbdad3.chunk.css",
     "static/js/2.2f36898a.chunk.js",
     "static/css/main.2d0e53f4.chunk.css",
